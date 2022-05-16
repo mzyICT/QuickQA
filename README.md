@@ -119,7 +119,7 @@ recall_model.py文件第124行：选择调用核心函数
 
 ## 运行Demo
 
-![image-20210629235011259](/Users/mazhanyu/Desktop/ICT/QuickQA/result.png)
+![image-20210629235011259](result.png)
 
 可以看到最后的语义理解还是非常喜人的
 
